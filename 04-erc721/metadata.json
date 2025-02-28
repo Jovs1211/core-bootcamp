@@ -1,0 +1,12 @@
+{
+    "name": "SecretToken",
+    "description": "Description",
+    "symbol": "DHO",
+    "image": "https://imgur.com/a/KF93Tq9",
+    "attributes": [
+        {
+            "trait_type": "TYPE",
+            "value": "VALUE"
+        }
+    ]
+}
